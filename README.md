@@ -31,4 +31,4 @@ Por enquanto, neste repositório há dois tutoriais sobre a API:
 
 ## Créditos e agradecimentos
 
-Este tutorial foi escrito por mim, Fernanda Campagnucci. Agradeço especialmente ao [Fernando Paiva](https://github.com/fernandosjp), pelas dicas de código para consumo da API, e aos colegas [Eduardo Paiva](https://github.com/eduspano) e Marcelo Cabral, também gestores públicos entusiastas dos dados e do software livre, com quem venho aprendendo bastante :)
+Este tutorial foi escrito por mim, Fernanda Campagnucci. Agradeço especialmente ao [Fernando Paiva](https://github.com/fernandosjp), pelas dicas de código para consumo da API; aos colegas [Eduardo Paiva](https://github.com/eduspano) e Marcelo Cabral, também gestores públicos entusiastas dos dados e do software livre, com quem venho aprendendo e me inspirando bastante; e aos colegas técnicos da Secretaria Municipal da Fazenda, que estão abertos ao diálogo para melhoria da ferramenta.
