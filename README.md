@@ -18,14 +18,14 @@ Também há um [glossário](http://orcamento.sf.prefeitura.sp.gov.br/orcamento/u
 
 O Jupyter Notebook é uma forma muito bacana de documentar código, pois permite rodar comandos no navegador, visualizar os testes e alternar com texto e imagens. Conheça mais e instale [aqui](http://jupyter.org/).
 
-Este tutorial foi escrito num Jupyter Notebook, e o github permite visualização desse arquivo. Desta forma, você pode visualizá-lo [aqui mesmo](https://github.com/campagnucci/api_sof/blob/master/SOF_Execucao_Orcamentaria_PMSP.ipynb) sem necessidade de instalar a ferramenta.
+Este tutorial foi escrito num Jupyter Notebook, e o github permite visualização desse arquivo. Desta forma, você pode visualizá-lo aqui mesmo, sem necessidade de instalar a ferramenta.
 
 ## Tutoriais
 
-Por enquanto, há dois tutoriais sobre a API:
+Por enquanto, neste repositório há dois tutoriais sobre a API:
 
-* Parte 1 - Explorando as despesas
-* Parte 2 - Explorando os contratos (depende do primeiro)
+* [Parte 1](https://github.com/campagnucci/api_sof/blob/master/SOF_Execucao_Orcamentaria_PMSP.ipynb) - Explorando as despesas
+* [Parte 2](https://github.com/campagnucci/api_sof/blob/master/SOF_Contratos.ipynb) - Explorando os contratos (depende do primeiro)
 
 À medida que for avançando em outras explorações, vou acrescentando aqui!
 
